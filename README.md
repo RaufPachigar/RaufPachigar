@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rauf Pachigar</h1>
 <h3 align="center">A Full Stack Developer seamlessly bridges the gap between front-end aesthetics and back-end logic to deliver comprehensive, user-focused applications.</h3>
 
-- 🔭 I’m currently working on **CRM**
+- 🔭 I’m currently working on **CRM Project**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
