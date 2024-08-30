@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rauf Pachigar</h1>
 <h3 align="center">A Full Stack Developer seamlessly bridges the gap between front-end aesthetics and back-end logic to deliver comprehensive, user-focused applications.</h3>
-<img>https://iconscout.com/lottie-animation/programmer-11006715</img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&s" >
 - 🔭 I’m currently working on **CRM Project**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
