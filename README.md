@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rauf Pachigar</h1>
 <h3 align="center">A Full Stack Developer seamlessly bridges the gap between front-end aesthetics and back-end logic to deliver comprehensive, user-focused applications.</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&s" >
+<hr>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<hr/>
 - 🔭 I’m currently working on **CRM Project**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
