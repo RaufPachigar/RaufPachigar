@@ -4,7 +4,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <hr/>
-- 🔭 I’m currently working on **CRM Project**
+- 🔭 I’m currently working on **Full Stack Projects TechStck :- Anagular + .NET**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
